@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  Hi there 👋
+## Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e4/f7/5a/e4f75a8e8682efc092039611e6333603.gif" width="500"/>
+<div id="header" align="left">
+  <img src="https://cdn.dribbble.com/users/1778144/screenshots/4986006/media/5374233fd73f055694532549ae5b6280.gif" width="500"/>
 </div>
